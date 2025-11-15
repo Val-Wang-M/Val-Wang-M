@@ -1,7 +1,7 @@
 Hi, I'm Val! 👋
-I'm an A-Levels graduate passionate about coding, AI, and building cool projects.
+I'm passionate about coding, AI, and building projects.
 
-What I'm interested in 🛠️
+What I'm interested in:
 - Mobile apps (React Native)
 - Web development (HTML/CSS/JS)
 - Python, C++
