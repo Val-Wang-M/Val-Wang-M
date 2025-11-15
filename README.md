@@ -1,4 +1,4 @@
-Hi, I'm Val! 👋
+Hello, I'm Val.
 I'm passionate about coding, AI, and building projects.
 
 What I'm interested in:
